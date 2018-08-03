@@ -11,7 +11,7 @@ An introduction to Docker on Linux that takes you through the basics of the plat
 ## [Kubernetes on Docker for Mac and Docker for Windows](/kubernetes-desktop.md) 
 This lab will cover the basics of using Kubernetes on Docker for Mac and Docker for Windows. People taking this lab will gain an understanding of basic concepts of Kubernetes and how to create your cluster on your desktop.
 
-## [Modernizing Traditional Java Apps](/mta-java.md)
+## [Modernizing Traditional Java Apps](https://github.com/dockersamples/ee-exercises/blob/master/mta-java.md)
 This lab will take a traditional, Java EE monolithic application and show you how to containerize it, and then break out a few pieces to have a more modern, modular deployment of the application built on Docker EE. People taking this lab will understand the basics of application modernization and Docker EE.
 
 ## [Service Discovery and Load Balancing for a microservices application on Docker EE and Kubernetes](http://success.docker.com/article/ucp-service-discovery)
